@@ -1,2 +1,2 @@
 # https://github.com/vectranetworks/AWS-Traffic-Mirroring-Session-Manager/tree/d3137e4b649d4d54b3023fc7c860b11c7dd535a4
-git+https://github.com/vectranetworks/AWS-Traffic-Mirroring-Session-Manager@d3137e4b649d4d54b3023fc7c860b11c7dd535a4
+git+https://github.com/vectranetworks/AWS-Traffic-Mirroring-Session-Manager@d3137e4b649d4d54b3023fc7c860b11c7dd535a4#egg=aws-network-tap
