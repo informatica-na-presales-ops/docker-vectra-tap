@@ -1,6 +1,5 @@
-version: '3.7'
+version: '3.8'
 
 services:
   vectra-tap:
-    image: docker.pkg.github.com/informatica-na-presales-ops/docker-vectra-tap/vectra-tap
-    build: .
+    image: ghcr.io/informatica-na-presales-ops/vectra-tap
